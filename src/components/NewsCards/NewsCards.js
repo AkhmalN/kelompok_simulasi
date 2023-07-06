@@ -44,6 +44,7 @@ const NewsCards = ({ articles, activeArticle }) => {
                 display: "flex",
                 flexDirection: "column",
                 textAlign: "center",
+                height : '400px'
               }}
             >
               <div
