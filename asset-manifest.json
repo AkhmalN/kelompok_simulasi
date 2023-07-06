@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kelompok_simulasi/static/css/main.97970567.css",
-    "main.js": "/kelompok_simulasi/static/js/main.83ded80f.js",
+    "main.js": "/kelompok_simulasi/static/js/main.79c55229.js",
     "index.html": "/kelompok_simulasi/index.html",
     "main.97970567.css.map": "/kelompok_simulasi/static/css/main.97970567.css.map",
-    "main.83ded80f.js.map": "/kelompok_simulasi/static/js/main.83ded80f.js.map"
+    "main.79c55229.js.map": "/kelompok_simulasi/static/js/main.79c55229.js.map"
   },
   "entrypoints": [
     "static/css/main.97970567.css",
-    "static/js/main.83ded80f.js"
+    "static/js/main.79c55229.js"
   ]
 }
