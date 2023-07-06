@@ -44,7 +44,6 @@ const NewsCards = ({ articles, activeArticle }) => {
                 display: "flex",
                 flexDirection: "column",
                 textAlign: "center",
-                height : '400px'
               }}
             >
               <div
@@ -54,7 +53,7 @@ const NewsCards = ({ articles, activeArticle }) => {
                   justifyContent: "space-between",
                   alignItems: "center",
                   width: "100%",
-                  height: "45vh",
+                  height: "60vh",
                   padding: "10%",
                   borderRadius: 10,
                   color: "white",
